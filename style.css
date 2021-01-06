@@ -6,14 +6,17 @@ h1{
     font-size: 50px;
 }
 .orange-highlight{
-    color: orange;
+    color: teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 h2{
     font-size: 40px;
 }
 p{
-    color: yellowgreen;
+    color: navy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
 }
 .half-width{
     width: 40%;
@@ -80,6 +83,36 @@ section{
     text-align: justify;
     
 }
+.image{
+    
+}
+.link-button2{
+text-decoration: none;
+    background-image: linear-gradient(skyblue, blue);
+   margin-top: 5%;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    width: 8%;
+    padding: 3px 3px;
 
+
+
+}
+.bottom-banner{
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 80%;
+    
+}
+.classification{
+    font-weight: 500;
+    color: violet;
+}
+.pic{
+    padding-top: 5%;
+    width: 45%;
+}
 
        
